@@ -44,7 +44,7 @@ export const achievementsData: AchievementItem[] = [
     id: "internmo-selection",
     title: "AI Internship – Internmo (Ongoing)",
     category: "Professional Career",
-    badge: "Upcoming Industry Role",
+    badge: "Ongoing Industry Role",
     badgeColor: "border-teal-500/50 bg-teal-500/10 text-teal-300",
     description: "Selected for an Artificial Intelligence engineering internship at Internmo starting November 2026 to apply machine learning concepts to real products.",
     impact: "Bridging collegiate AI research with industry applications, enterprise tooling, and production software pipelines.",
