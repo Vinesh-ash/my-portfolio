@@ -16,7 +16,7 @@ export const experienceData: ExperienceItem[] = [
     role: "AI Intern",
     company: "Internmo",
     location: "Remote / Hybrid",
-    period: "Nov 2026 – Present (Upcoming)",
+    period: "Nov 2026 – Present (Ongoing)",
     status: "Upcoming – Not Started",
     description: "Internship opportunity focused on practical exposure to Artificial Intelligence concepts, machine learning workflows, and practical applications.",
     highlights: [
