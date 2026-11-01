@@ -25,7 +25,7 @@ export const profileData: ProfileInfo = {
   phone: "+91 9159500523",
   location: "Sullurpeta, Andhra Pradesh, India",
   github: "https://github.com/Vinesh-ash",
-  linkedin: "https://www.linkedin.com/in/geriki-vinesh-4545692",
+  linkedin: "https://www.linkedin.com/in/geriki-vinesh-4545692a5/",
   resumeUrl: "#", // Direct download or view CV trigger
 };
 
