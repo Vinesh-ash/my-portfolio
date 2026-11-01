@@ -468,7 +468,7 @@ export const HomePage: React.FC = () => {
                 <div className="flex items-center justify-between">
                   <div className="font-semibold text-white">AI Intern</div>
                   <span className="text-[9px] font-mono px-1.5 py-0.5 rounded bg-teal-950 border border-teal-500/40 text-teal-300">
-                    Upcoming (Nov 2026)
+                    Ongoing (Nov 2026 - Feb 2027)
                   </span>
                 </div>
                 <div className="text-slate-400 font-mono text-[11px] mt-0.5">Internmo • Applied AI</div>
