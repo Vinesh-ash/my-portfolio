@@ -42,7 +42,7 @@ export const achievementsData: AchievementItem[] = [
   },
   {
     id: "internmo-selection",
-    title: "AI Internship – Internmo (Upcoming)",
+    title: "AI Internship – Internmo (Ongoing)",
     category: "Professional Career",
     badge: "Upcoming Industry Role",
     badgeColor: "border-teal-500/50 bg-teal-500/10 text-teal-300",
